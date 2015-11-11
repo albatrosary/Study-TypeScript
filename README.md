@@ -1,4 +1,4 @@
-# Study-TypeScript
+# Study of TypeScript
 
 ### Step.0
 #### Install TypeScript
