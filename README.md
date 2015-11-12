@@ -10,5 +10,5 @@ npm install -g typescript
 #### run
 
 ```
-tsc greeter.ts
+tsc greeter.ts --outFile main.js
 ```
