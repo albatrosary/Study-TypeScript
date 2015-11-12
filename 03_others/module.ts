@@ -1,0 +1,4 @@
+module todos {
+    'use strict';
+
+}
